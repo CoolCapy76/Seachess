@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">seachess</string>
+    <string name="player_won_message">You win!</string>
+    <string name="computer_won_message">Computer wins</string>
+    <string name="tie_message">Tie</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="alert_title">Game Reset</string>
+    <string name="alert_text">Do you want to continue?</string>
+    <string name="alert_yes">Yes</string>
+    <string name="alert_no">No</string>
+    <string name="reset_cancel_msg">Game Reset cancelled</string>
+</resources>
